@@ -35,4 +35,5 @@ print("Product of two arrays is:",product)
 ![output](./11.png)
 
 ## RESULT:
+Thus the python program of multiplying two matrix is created successfully
 
